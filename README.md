@@ -10,3 +10,5 @@ Library yang diperlukan untuk melakukan scarping pada website properti lamudi an
 Setelah mencapai halaman terakhir web yang akan di scrape maka lakukan stop iterasi secara manual
 
 ![screenshot](https://i.ibb.co/gSLXtLp/Lamudi-Scraper-web-scraping-ipynb-at-main-mikoelino-Lamudi-Scraper-Google-Chrome-13-02-2021-06-20-31.png)
+
+Eksekusi kode berikutnya dan file akan tersimpan sesuai nama file yang ditentukan !
