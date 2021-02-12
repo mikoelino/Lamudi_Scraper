@@ -9,4 +9,4 @@ Library yang diperlukan untuk melakukan scarping pada website properti lamudi an
 
 Setelah mencapai halaman terakhir web yang akan di scrape maka lakukan stop iterasi secara manual
 
-<img src="https://ibb.co/R3kMQkm"> </img>
+![alt text](https://ibb.co/R3kMQkm)
